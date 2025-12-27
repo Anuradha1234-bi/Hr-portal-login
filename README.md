@@ -117,18 +117,3 @@ git remote add origin https://github.com/Anuradha1234-bi/Hr-portal-login.git
 ```bash
 git push -u origin main
 ```
-
-````
-
----
-
-### ✅ Next Steps:
-
-1. Replace your current `README.md` content with the above.  
-2. Run these commands in your terminal:
-
-```bash
-git add README.md
-git commit -m "Resolved merge conflict in README.md"
-git push -u origin main
-
