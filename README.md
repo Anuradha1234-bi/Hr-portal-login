@@ -1,3 +1,7 @@
+
+# Hr-portal-login
+A modern HR Portal Login Page built with React and CSS, featuring responsive design, role selection (Admin, HR, Employees, Interns), password visibility toggle, and support guidance. Includes a visually appealing card layout with logo integration and background illustration.
+
 # HR Portal Login Page
 
 This is a **React-based HR Portal Login Page** with a modern UI, responsive design, and role selection functionality.
@@ -26,14 +30,13 @@ hr-portal-login/
 ├── package.json
 └── README.md
 
-
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hr-portal-login.git
-```
+git clone https://github.com/Anuradha1234-bi/Hr-portal-login.git
+````
 
 2. Navigate into the project folder:
 
@@ -106,7 +109,7 @@ git commit -m "Initial commit: Added HR Portal Login Page"
 5. **Connect to a remote repository**:
 
 ```bash
-git remote add origin https://github.com/your-username/hr-portal-login.git
+git remote add origin https://github.com/Anuradha1234-bi/Hr-portal-login.git
 ```
 
 6. **Push changes**:
@@ -114,4 +117,18 @@ git remote add origin https://github.com/your-username/hr-portal-login.git
 ```bash
 git push -u origin main
 ```
+
+````
+
+---
+
+### ✅ Next Steps:
+
+1. Replace your current `README.md` content with the above.  
+2. Run these commands in your terminal:
+
+```bash
+git add README.md
+git commit -m "Resolved merge conflict in README.md"
+git push -u origin main
 
