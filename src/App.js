@@ -111,7 +111,6 @@ function App() {
               <div className="form-group">
                 <label>Role</label>
                 <select>
-                  <option>Admin</option>
                   <option>HR</option>
                   <option>Employee</option>
                   <option>Intern</option>
